@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/myk/slam_lrn/SLAM14/myk_demo/Ceres_lrn/src/Bundle_Adjustment.cpp
+cmath
+-
+cstdio
+-
+iostream
+-
+ceres/ceres.h
+/home/myk/slam_lrn/SLAM14/myk_demo/Ceres_lrn/src/ceres/ceres.h
+ceres/rotation.h
+/home/myk/slam_lrn/SLAM14/myk_demo/Ceres_lrn/src/ceres/rotation.h
+

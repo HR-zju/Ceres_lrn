@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/myk/slam_lrn/SLAM14/myk_demo/Ceres_lrn/main.cpp
+ceres/ceres.h
+/home/myk/slam_lrn/SLAM14/myk_demo/Ceres_lrn/ceres/ceres.h
+glog/logging.h
+/home/myk/slam_lrn/SLAM14/myk_demo/Ceres_lrn/glog/logging.h
+
